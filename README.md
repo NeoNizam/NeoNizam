@@ -39,5 +39,5 @@ I use GitHub as a space to explore ideas, document frameworks, and contribute me
 
 ---
 
-**Brand Identity:** NizamJourney <br>
+**Brand Identity:** NeoNizam <br>
 **Mindset:** Research → Structure → Execution
